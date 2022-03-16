@@ -1,3 +1,15 @@
 body {
   margin: 0;
 }
+
+div {
+  width: 16px;
+  height: 16px;
+  background: red;
+  display: block;
+  margin: 1px;
+}
+
+div:hover {
+  background: blue;
+}
